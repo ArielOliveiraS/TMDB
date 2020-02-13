@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TesteFilmeMVC</string>
+    <string name="nome_do_filme">Nome do Filme</string>
+</resources>
